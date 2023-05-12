@@ -4,12 +4,6 @@
   </h3>
  <h3 align="center">  Empresa de desarrollo de software 💻</h3>
 
-
-
-Preparing to be a systems engineer, at the moment I am studying Java, C #, .NET, Python, PHP and creating web pages with HTML, CSS and JavaScript.
-<br>
-I study engineering in computer science at the Don Bosco University. 👨‍💻
-
 - 📫 How to reach me **info@nexuserp.com**
 - Website: https://nexuserp.com/
 
